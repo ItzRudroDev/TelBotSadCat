@@ -1,0 +1,17 @@
+{
+  "name": "telegram-bot---synox",
+  "version": "1.0.0",
+  "description": "Telegram bot dev Sad Cat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "author": "rudroItz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "telegraf": "^4.9.2"
+  }
+}
